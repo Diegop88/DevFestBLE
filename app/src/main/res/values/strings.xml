@@ -3,4 +3,6 @@
     <string name="menu_search">Search</string>
     <string name="menu_stop">Stop</string>
     <string name="bt_not_found">Bluetooth not found</string>
+    <string name="bt_error">Error</string>
+    <string name="finding">Finding</string>
 </resources>
